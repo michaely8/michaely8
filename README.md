@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Michael
 
-Hello
+I'm currently learning C++ and Java.
 
 <!--
 **michaely8/michaely8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
